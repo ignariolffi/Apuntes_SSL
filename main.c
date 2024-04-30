@@ -49,6 +49,11 @@ int main() {
     //cout y cin son variables que representan un flujo
     //fprintf es una version mas generica del printf solo que este ultimo imprime en consola y fprintf nos permite elegir
     //en que flujo imprimir
-
+    //fputs() version generica de puts
+    //los flujos de e/s son variables y pueden ser modficados y alterados
+    //DECLRACION DE UN FLUJO FILE* unFlujo;
+    //la estrcutura file cuenta con las herramientas necesarias para la manipulacion de flujos de e/s
+    //para conectar un flujo de datos podemos usar la funcion FOPEN("origenFlujo";"r"); la r simboliza lectura (reading)
+    //
 
 }
